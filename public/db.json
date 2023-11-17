@@ -1,0 +1,55 @@
+{
+    "questions" :[
+        {
+          "question": "What does JSX stand for in React?",
+          "options": ["JavaScript XML", "Java XML", "JSON XML", "JavaScript HTML"],
+          "correctAnswer": "JavaScript XML"
+        },
+        {
+          "question": "In React, what is the purpose of the virtual DOM?",
+          "options": ["To speed up rendering", "To directly manipulate the DOM", "To manage state", "To reconcile changes efficiently"],
+          "correctAnswer": "To reconcile changes efficiently"
+        },
+        {
+          "question": "Which lifecycle method is called after a component renders?",
+          "options": ["componentDidMount", "componentDidUpdate", "componentWillUnmount", "rendered"],
+          "correctAnswer": "componentDidMount"
+        },
+        {
+          "question": "What is the purpose of React Router?",
+          "options": ["State management", "API requests", "Routing in a React application", "Styling components"],
+          "correctAnswer": "Routing in a React application"
+        },
+        {
+          "question": "What is the purpose of the `useState` hook in React?",
+          "options": ["To fetch data from an API", "To manage and update state in functional components", "To create class components", "To handle user authentication"],
+          "correctAnswer": "To manage and update state in functional components"
+        },
+        {
+          "question": "What is the role of the `map` function in React?",
+          "options": ["To create a new array with modified elements", "To iterate over an array and return a new array", "To filter elements in an array", "To perform mathematical operations on array elements"],
+          "correctAnswer": "To iterate over an array and return a new array"
+        },
+        {
+          "question": "What is the purpose of the `componentWillUnmount` lifecycle method?",
+          "options": ["To fetch data from an API", "To perform cleanup before a component is removed from the DOM", "To update the component's state", "To handle user input"],
+          "correctAnswer": "To perform cleanup before a component is removed from the DOM"
+        },
+        {
+          "question": "What is the significance of the `key` prop in React lists?",
+          "options": ["It specifies the list's length", "It uniquely identifies elements in a list", "It sets the background color of list items", "It defines the font size of list items"],
+          "correctAnswer": "It uniquely identifies elements in a list"
+        },
+        {
+          "question": "What is the purpose of the `useEffect` hook in React?",
+          "options": ["To create custom hooks", "To manage and update state", "To perform side effects in functional components", "To handle form submissions"],
+          "correctAnswer": "To perform side effects in functional components"
+        },
+        {
+          "question": "In React, what is the purpose of the `props` object?",
+          "options": ["To store component-specific data", "To manage and update state", "To pass data between components", "To define CSS styles for a component"],
+          "correctAnswer": "To pass data between components"
+        }
+      ]
+      
+} 
